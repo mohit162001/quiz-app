@@ -69,6 +69,21 @@
         'Using an if-else statement.',
       ],
     },
+    {
+      id: 'q8',
+      text: 'What is the significance of virtual DOM in React?',
+      answers: ['Improves performance by minimizing DOM manipulation', 'Provides a virtual environment for testing', 'Creates a visual representation of the DOM', 'Enhances accessibility in web applications'],
+    },
+    {
+      id: 'q9',
+      text: 'What is the purpose of componentDidMount() in React?',
+      answers: ['To execute code after the component is mounted', 'To handle component unmounting', 'To update the component state', 'To define the initial state of the component'],
+    },
+    {
+      id: 'q10',
+      text: 'Which method is used to change the state in React?',
+      answers: ['setState', 'changeState', 'updateState', 'modifyState'],
+    },
   ];
   console.log(QUESTIONS.length)
   export default QUESTIONS
