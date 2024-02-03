@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+visit https://quizz-react-app.vercel.app/ for demo 
 ## Available Scripts
 
 In the project directory, you can run:
